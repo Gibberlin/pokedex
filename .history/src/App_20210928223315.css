@@ -4,8 +4,8 @@ ul {
   display: flex;
 }
 li {
-  margin: 0.2rem;
-  padding: 1.5rem 1rem 1.5rem 1rem;
+  margin: 1rem;
+  padding: 2rem;
   cursor: pointer;
   border-radius: 5px;
 }
@@ -17,7 +17,4 @@ nav {
 li:hover {
   color: #18f;
   background-color: #fff;
-}
-h1 {
-  text-align: center;
 }

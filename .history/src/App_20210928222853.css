@@ -1,0 +1,9 @@
+ul {
+  margin-left: 70%;
+  list-style-type: none;
+  display: flex;
+}
+li {
+  margin-left: 3rem;
+  cursor: pointer;
+}

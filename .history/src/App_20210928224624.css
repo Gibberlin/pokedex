@@ -20,4 +20,6 @@ li:hover {
 }
 h1 {
   text-align: center;
+  stroke: #18f;
+  color: yellow;
 }

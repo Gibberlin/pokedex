@@ -20,4 +20,7 @@ li:hover {
 }
 h1 {
   text-align: center;
+  stroke: #18f;
+  color: yellow;
+  background-color: linear-gradient(45 deg, red, blue);
 }

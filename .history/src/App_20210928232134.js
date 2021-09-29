@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import Nav from "./components/Nav"
 import './App.css';
 import './components/Cards';
-import Cards from './components/Cards';
 
 function App() {
   return (
